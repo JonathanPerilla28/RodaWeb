@@ -1,0 +1,10 @@
+# GitHub Pages configuration
+title: "Láminas y Aglomerados Roda S.A.S"
+description: "Precisión que construye confianza. Venta, corte y canteo de láminas de aglomerado, MDF, MDP y maderas crudas."
+url: ""
+baseurl: ""
+
+# Exclude files from Jekyll processing
+exclude:
+  - README.md
+  - "*.sh"
